@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renatadecassiapires
+- 👋 Hi, I’m @renatadecassiapires, I am biologist, affectionate for technology, and now, in career transition for this new area
 - 👀 I’m interested in web development jobs using python, django and data analysis
 - 🌱 I’m currently learning python, typescript and powerBI
 - 💞️ I’m looking to collaborate on projects of full stack developer 
